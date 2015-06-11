@@ -1,0 +1,9 @@
+
+Code Book for Analysis of Human Activity Recognition Using Smartphones Dataset
+==============================================================================
+
+# File:    PhilsCodeBook.txt
+# Date:    6/11/2015
+# Author:  Phil Sophity
+# Version: Initial
+
