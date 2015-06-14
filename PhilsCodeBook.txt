@@ -7,3 +7,6 @@ Code Book for Analysis of Human Activity Recognition Using Smartphones Dataset
 # Author:  Phil Sophity
 # Version: Initial
 
+
+
+
