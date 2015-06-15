@@ -7,6 +7,154 @@ Code Book for Analysis of Human Activity Recognition Using Smartphones Dataset
 # Author:  Phil Sophity
 # Version: Initial
 
+A description of each of the fields contained in the dataset file "meanbysubjectactivity.txt" is given below.
+For background information, see also, the original data code books.
+    features.txt
+    features_info.txt
+    
+    
+Fields in meanbysubjectactivity.txt:
+
+Field name: description.
+------------------------
+activity: activity.
+
+subjectId: subjectId.
+
+timeDomainBodyAccelerationXAxisMeanMeanByActivitySubjectId: the calculated mean time-domain, accelerometer measured (attributed to body) (along the X-axis), mean, by activity, per subject id .
+
+timeDomainBodyAccelerationYAxisMeanMeanByActivitySubjectId: the calculated mean time-domain, accelerometer measured (attributed to body) {along the Y-axis), mean, by activity, per subject id .
+
+timeDomainBodyAccelerationZAxisMeanMeanByActivitySubjectId: the calculated mean time-domain, accelerometer measured (attributed to body) (along the Z-axis), mean, by activity, per subject id .
+
+timeDomainBodyAccelerationXAxisStdMeanByActivitySubjectId: the calculated mean time-domain, accelerometer measured (attributed to body) (along the X-axis), std, by activity, per subject id .
+
+timeDomainBodyAccelerationYAxisStdMeanByActivitySubjectId: the calculated mean time-domain, accelerometer measured (attributed to body) {along the Y-axis), std, by activity, per subject id .
+
+timeDomainBodyAccelerationZAxisStdMeanByActivitySubjectId: the calculated mean time-domain, accelerometer measured (attributed to body) (along the Z-axis), std, by activity, per subject id .
+
+timeDomainGravityAccelerationXAxisMeanMeanByActivitySubjectId: the calculated mean time-domain, accelerometer measured (attributed to gravity) (along the X-axis), mean, by activity, per subject id .
+
+timeDomainGravityAccelerationYAxisMeanMeanByActivitySubjectId: the calculated mean time-domain, accelerometer measured (attributed to gravity) {along the Y-axis), mean, by activity, per subject id .
+
+timeDomainGravityAccelerationZAxisMeanMeanByActivitySubjectId: the calculated mean time-domain, accelerometer measured (attributed to gravity) (along the Z-axis), mean, by activity, per subject id .
+
+timeDomainGravityAccelerationXAxisStdMeanByActivitySubjectId: the calculated mean time-domain, accelerometer measured (attributed to gravity) (along the X-axis), std, by activity, per subject id .
+
+timeDomainGravityAccelerationYAxisStdMeanByActivitySubjectId: the calculated mean time-domain, accelerometer measured (attributed to gravity) {along the Y-axis), std, by activity, per subject id .
+
+timeDomainGravityAccelerationZAxisStdMeanByActivitySubjectId: the calculated mean time-domain, accelerometer measured (attributed to gravity) (along the Z-axis), std, by activity, per subject id .
+
+timeDomainBodyAccelerationJerkXAxisMeanMeanByActivitySubjectId: the calculated mean time-domain, accelerometer measured (body jerk) (along the X-axis), mean, by activity, per subject id .
+
+timeDomainBodyAccelerationJerkYAxisMeanMeanByActivitySubjectId: the calculated mean time-domain, accelerometer measured (body jerk) {along the Y-axis), mean, by activity, per subject id .
+
+timeDomainBodyAccelerationJerkZAxisMeanMeanByActivitySubjectId: the calculated mean time-domain, accelerometer measured (body jerk) (along the Z-axis), mean, by activity, per subject id .
+
+timeDomainBodyAccelerationJerkXAxisStdMeanByActivitySubjectId: the calculated mean time-domain, accelerometer measured (body jerk) (along the X-axis), std, by activity, per subject id .
+
+timeDomainBodyAccelerationJerkYAxisStdMeanByActivitySubjectId: the calculated mean time-domain, accelerometer measured (body jerk) {along the Y-axis), std, by activity, per subject id .
+
+timeDomainBodyAccelerationJerkZAxisStdMeanByActivitySubjectId: the calculated mean time-domain, accelerometer measured (body jerk) (along the Z-axis), std, by activity, per subject id .
+
+timeDomainBodyGyroscopeXAxisMeanMeanByActivitySubjectId: the calculated mean time-domain, gyroscope measured (along the X-axis), mean, by activity, per subject id .
+
+timeDomainBodyGyroscopeYAxisMeanMeanByActivitySubjectId: the calculated mean time-domain, gyroscope measured {along the Y-axis), mean, by activity, per subject id .
+
+timeDomainBodyGyroscopeZAxisMeanMeanByActivitySubjectId: the calculated mean time-domain, gyroscope measured (along the Z-axis), mean, by activity, per subject id .
+
+timeDomainBodyGyroscopeXAxisStdMeanByActivitySubjectId: the calculated mean time-domain, gyroscope measured (along the X-axis), std, by activity, per subject id .
+
+timeDomainBodyGyroscopeYAxisStdMeanByActivitySubjectId: the calculated mean time-domain, gyroscope measured {along the Y-axis), std, by activity, per subject id .
+
+timeDomainBodyGyroscopeZAxisStdMeanByActivitySubjectId: the calculated mean time-domain, gyroscope measured (along the Z-axis), std, by activity, per subject id .
+
+timeDomainBodyGyroscopeJerkXAxisMeanMeanByActivitySubjectId: the calculated mean time-domain, gyroscope measured (body jerk) (along the X-axis), mean, by activity, per subject id .
+
+timeDomainBodyGyroscopeJerkYAxisMeanMeanByActivitySubjectId: the calculated mean time-domain, gyroscope measured (body jerk) {along the Y-axis), mean, by activity, per subject id .
+
+timeDomainBodyGyroscopeJerkZAxisMeanMeanByActivitySubjectId: the calculated mean time-domain, gyroscope measured (body jerk) (along the Z-axis), mean, by activity, per subject id .
+
+timeDomainBodyGyroscopeJerkXAxisStdMeanByActivitySubjectId: the calculated mean time-domain, gyroscope measured (body jerk) (along the X-axis), std, by activity, per subject id .
+
+timeDomainBodyGyroscopeJerkYAxisStdMeanByActivitySubjectId: the calculated mean time-domain, gyroscope measured (body jerk) {along the Y-axis), std, by activity, per subject id .
+
+timeDomainBodyGyroscopeJerkZAxisStdMeanByActivitySubjectId: the calculated mean time-domain, gyroscope measured (body jerk) (along the Z-axis), std, by activity, per subject id .
+
+timeDomainBodyAccelerationMagnitudeMeanMeanByActivitySubjectId: the calculated mean time-domain, accelerometer measured (attributed to body), magnitude-mean, by activity, per subject id .
+
+timeDomainBodyAccelerationMagnitudeStdMeanByActivitySubjectId: the calculated mean time-domain, accelerometer measured (attributed to body), magnitude-std, by activity, per subject id .
+
+timeDomainGravityAccelerationMagnitudeMeanMeanByActivitySubjectId: the calculated mean time-domain, accelerometer measured (attributed to gravity), magnitude-mean, by activity, per subject id .
+
+timeDomainGravityAccelerationMagnitudeStdMeanByActivitySubjectId: the calculated mean time-domain, accelerometer measured (attributed to gravity), magnitude-std, by activity, per subject id .
+
+timeDomainBodyAccelerationJerkMagnitudeMeanMeanByActivitySubjectId: the calculated mean time-domain, accelerometer measured (body jerk), magnitude-mean, by activity, per subject id .
+
+timeDomainBodyAccelerationJerkMagnitudeStdMeanByActivitySubjectId: the calculated mean time-domain, accelerometer measured (body jerk), magnitude-std, by activity, per subject id .
+
+timeDomainBodyGyroscopeMagnitudeMeanMeanByActivitySubjectId: the calculated mean time-domain, gyroscope measured, magnitude-mean, by activity, per subject id .
+
+timeDomainBodyGyroscopeMagnitudeStdMeanByActivitySubjectId: the calculated mean time-domain, gyroscope measured, magnitude-std, by activity, per subject id .
+
+timeDomainBodyGyroscopeJerkMagnitudeMeanMeanByActivitySubjectId: the calculated mean time-domain, gyroscope measured (body jerk), magnitude-mean, by activity, per subject id .
+
+timeDomainBodyGyroscopeJerkMagnitudeStdMeanByActivitySubjectId: the calculated mean time-domain, gyroscope measured (body jerk), magnitude-std, by activity, per subject id .
+
+frequencyDomainBodyAccelerationXAxisMeanMeanByActivitySubjectId: the calculated mean frequency-domain, accelerometer measured (attributed to body) (along the X-axis), mean, by activity, per subject id .
+
+frequencyDomainBodyAccelerationYAxisMeanMeanByActivitySubjectId: the calculated mean frequency-domain, accelerometer measured (attributed to body) {along the Y-axis), mean, by activity, per subject id .
+
+frequencyDomainBodyAccelerationZAxisMeanMeanByActivitySubjectId: the calculated mean frequency-domain, accelerometer measured (attributed to body) (along the Z-axis), mean, by activity, per subject id .
+
+frequencyDomainBodyAccelerationXAxisStdMeanByActivitySubjectId: the calculated mean frequency-domain, accelerometer measured (attributed to body) (along the X-axis), std, by activity, per subject id .
+
+frequencyDomainBodyAccelerationYAxisStdMeanByActivitySubjectId: the calculated mean frequency-domain, accelerometer measured (attributed to body) {along the Y-axis), std, by activity, per subject id .
+
+frequencyDomainBodyAccelerationZAxisStdMeanByActivitySubjectId: the calculated mean frequency-domain, accelerometer measured (attributed to body) (along the Z-axis), std, by activity, per subject id .
+
+frequencyDomainBodyAccelerationJerkXAxisMeanMeanByActivitySubjectId: the calculated mean frequency-domain, accelerometer measured (body jerk) (along the X-axis), mean, by activity, per subject id .
+
+frequencyDomainBodyAccelerationJerkYAxisMeanMeanByActivitySubjectId: the calculated mean frequency-domain, accelerometer measured (body jerk) {along the Y-axis), mean, by activity, per subject id .
+
+frequencyDomainBodyAccelerationJerkZAxisMeanMeanByActivitySubjectId: the calculated mean frequency-domain, accelerometer measured (body jerk) (along the Z-axis), mean, by activity, per subject id .
+
+frequencyDomainBodyAccelerationJerkXAxisStdMeanByActivitySubjectId: the calculated mean frequency-domain, accelerometer measured (body jerk) (along the X-axis), std, by activity, per subject id .
+
+frequencyDomainBodyAccelerationJerkYAxisStdMeanByActivitySubjectId: the calculated mean frequency-domain, accelerometer measured (body jerk) {along the Y-axis), std, by activity, per subject id .
+
+frequencyDomainBodyAccelerationJerkZAxisStdMeanByActivitySubjectId: the calculated mean frequency-domain, accelerometer measured (body jerk) (along the Z-axis), std, by activity, per subject id .
+
+frequencyDomainBodyGyroscopeXAxisMeanMeanByActivitySubjectId: the calculated mean frequency-domain, gyroscope measured (along the X-axis), mean, by activity, per subject id .
+
+frequencyDomainBodyGyroscopeYAxisMeanMeanByActivitySubjectId: the calculated mean frequency-domain, gyroscope measured {along the Y-axis), mean, by activity, per subject id .
+
+frequencyDomainBodyGyroscopeZAxisMeanMeanByActivitySubjectId: the calculated mean frequency-domain, gyroscope measured (along the Z-axis), mean, by activity, per subject id .
+
+frequencyDomainBodyGyroscopeXAxisStdMeanByActivitySubjectId: the calculated mean frequency-domain, gyroscope measured (along the X-axis), std, by activity, per subject id .
+
+frequencyDomainBodyGyroscopeYAxisStdMeanByActivitySubjectId: the calculated mean frequency-domain, gyroscope measured {along the Y-axis), std, by activity, per subject id .
+
+frequencyDomainBodyGyroscopeZAxisStdMeanByActivitySubjectId: the calculated mean frequency-domain, gyroscope measured (along the Z-axis), std, by activity, per subject id .
+
+frequencyDomainBodyAccelerationMagnitudeMeanMeanByActivitySubjectId: the calculated mean frequency-domain, accelerometer measured (attributed to body), magnitude-mean, by activity, per subject id .
+
+frequencyDomainBodyAccelerationMagnitudeStdMeanByActivitySubjectId: the calculated mean frequency-domain, accelerometer measured (attributed to body), magnitude-std, by activity, per subject id .
+
+frequencyDomainBodyAccelerationJerkMagnitudeMeanMeanByActivitySubjectId: the calculated mean frequency-domain, accelerometer measured (body jerk), magnitude-mean, by activity, per subject id .
+
+frequencyDomainBodyAccelerationJerkMagnitudeStdMeanByActivitySubjectId: the calculated mean frequency-domain, accelerometer measured (body jerk), magnitude-std, by activity, per subject id .
+
+frequencyDomainBodyGyroscopeMagnitudeMeanMeanByActivitySubjectId: the calculated mean frequency-domain, gyroscope measured, magnitude-mean, by activity, per subject id .
+
+frequencyDomainBodyGyroscopeMagnitudeStdMeanByActivitySubjectId: the calculated mean frequency-domain, gyroscope measured, magnitude-std, by activity, per subject id .
+
+frequencyDomainBodyGyroscopeJerkMagnitudeMeanMeanByActivitySubjectId: the calculated mean frequency-domain, gyroscope measured (body jerk), magnitude-mean, by activity, per subject id .
+
+frequencyDomainBodyGyroscopeJerkMagnitudeStdMeanByActivitySubjectId: the calculated mean frequency-domain, gyroscope measured (body jerk), magnitude-std, by activity, per subject id .
+
+
+
 
 
 
