@@ -50,9 +50,12 @@ Features indicated by "meanFreq()" are not included because the requirements do 
 Create a tidy data set from the source ""Human Activity Recognition Using Smartphones Dataset".
 
 ### Usage:
- > source("run_analysis.R")
- > run_analysis.main()
- 
+
+ ```
+   source("run_analysis.R");
+   run_analysis.main()
+
+```
 ### Files required:
  These files must be in your working directory:
 * activity_labels.txt
