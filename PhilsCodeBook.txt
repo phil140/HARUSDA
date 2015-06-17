@@ -8,10 +8,23 @@ Code Book for Analysis of Human Activity Recognition Using Smartphones Dataset
 # Version: Initial
 
 A description of each of the fields contained in the dataset file "meanbysubjectactivity.txt" is given below.
-For background information, see also, the original data code books.
+For background information, see also, the original documenation and, data code books. (Ref 1)
+    README.md
     features.txt
     features_info.txt
+
+These features are based on the features described in features_info.txt. Originally they came from "the accelerometer and gyroscope 3-axial raw signals
+tAcc-XYZ and tGyro-XYZ" of the smartphone (Samsung Galaxy S II). The time domain signals were captured at a constant rate of 50 Hz and translated
+to acceleration signals, and separated into body and gravity acceleration signals. Where '-XYZ' denotes 3-axial signals in the X, Y and Z directions.
+The units of measure are unclear.
     
+Ref 1, Original data and documentation, reference.
+  Jorge L. Reyes-Ortiz, Davide Anguita, Alessandro Ghio, Luca Oneto.
+  Smartlab - Non Linear Complex Systems Laboratory
+  DITEN - University degli Studi di Genova.
+  Via Opera Pia 11A, I-16145, Genoa, Italy.
+  activityrecognition@smartlab.ws
+  www.smartlab.ws
     
 Fields in meanbysubjectactivity.txt:
 
